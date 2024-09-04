@@ -1,7 +1,7 @@
 # Customer-Shopping-Data
 
 - Project Title: Customer Shopping Data Analysis
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 ## About Dataset
